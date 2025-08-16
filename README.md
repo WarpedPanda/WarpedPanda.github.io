@@ -1,2 +1,1 @@
-# chatchat.github.io
-this is a chatting website :D
+i suck di**s
