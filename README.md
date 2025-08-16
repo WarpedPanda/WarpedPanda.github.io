@@ -1,2 +1,2 @@
-# i suck di**s
-u saw nothing :D
+# chat-chat.github.io
+I suck di**s :D
