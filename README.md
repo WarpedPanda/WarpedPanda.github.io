@@ -1,1 +1,2 @@
-    $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
+    <span style="color: red;">This text is red.</span>
+    <p style="color: blue;">This paragraph is blue.</p>
