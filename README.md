@@ -1,2 +1,1 @@
-# chat-chat.github.io
-I suck di**s :D
+    $${\color{red}Welcome} \space {\color{lightblue}To } \space {\color{lightgreen}Github}$$
