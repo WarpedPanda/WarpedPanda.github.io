@@ -1,2 +1,2 @@
 # hello there. if u are seeing this, then that means that....
-zoharin x daniel!! :D
+zoharin x daniel!! :D its true tho XD
