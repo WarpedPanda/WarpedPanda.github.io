@@ -1,4 +1,5 @@
 # hello there. if u are seeing this, then that means that....
 zoharin x zaid!! 
-<img src="https://files.pumble.com/688cba161d01cc01aebc83a9/6896866c47b6a1724bca201d/68a1801aaf09165f4a0e99c3/68a1801aaf09165f4a0e99c2/9bS3cUHS-image.png" />
+<img src="<img src="blob:chrome-untrusted://media-app/a98d129a-e8ac-4bfe-adf5-cb928376bb3b" alt="image (3).png"/><img width="610" height="223" alt="image" src="https://github.com/user-attachments/assets/42bd604b-75e5-45e9-aa1d-99b4194b1ee7" />
+" />
 
